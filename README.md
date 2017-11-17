@@ -18,3 +18,5 @@ To get the `uuid` for the image:
 To get the `uuid` of a container:
 
     docker ps -a
+
+https://medium.com/@pablofmorales/how-i-use-docker-with-laravel-mongodb-and-redis-bcf20778c67e
